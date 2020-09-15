@@ -1,0 +1,924 @@
+{
+    "datalist":
+        {
+            "woman":[
+                {
+                    "id": 2001,
+                    "ct":"https://a.appsimg.com/upcb/2020/09/01/78/ias_159892196493889_190x175_90.jpg!75.webp",
+                    "lg":"https://a.appsimg.com/upload/brandcool/0/28194e347b0342f694cd6219df203053/10000683/black_160x80_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/08/10/71/ias_159704637092784_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b4331f2ad75c4046bb6cc94077360984/10026338/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/8/ias_159962076614831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/1e1a4c90172342eca47740580be35711/10000145/primary3_200x100_90.png!75.webp",
+                    "ft":"我是卖不出去的",
+                    "ck":"true"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://a.appsimg.com/upcb/2020/09/01/78/ias_159892196493889_190x175_90.jpg!75.webp",
+                    "lg":"https://a.appsimg.com/upload/brandcool/0/28194e347b0342f694cd6219df203053/10000683/black_160x80_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/08/10/71/ias_159704637092784_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b4331f2ad75c4046bb6cc94077360984/10026338/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/8/ias_159962076614831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/1e1a4c90172342eca47740580be35711/10000145/primary3_200x100_90.png!75.webp",
+                    "ft":"我是卖不出去的",
+                    "ck":"true"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://a.appsimg.com/upcb/2020/09/01/78/ias_159892196493889_190x175_90.jpg!75.webp",
+                    "lg":"https://a.appsimg.com/upload/brandcool/0/28194e347b0342f694cd6219df203053/10000683/black_160x80_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/08/10/71/ias_159704637092784_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b4331f2ad75c4046bb6cc94077360984/10026338/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2011,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/8/ias_159962076614831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/1e1a4c90172342eca47740580be35711/10000145/primary3_200x100_90.png!75.webp",
+                    "ft":"我是卖不出去的",
+                    "ck":"true"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://a.appsimg.com/upcb/2020/09/01/78/ias_159892196493889_190x175_90.jpg!75.webp",
+                    "lg":"https://a.appsimg.com/upload/brandcool/0/28194e347b0342f694cd6219df203053/10000683/black_160x80_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/08/10/71/ias_159704637092784_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b4331f2ad75c4046bb6cc94077360984/10026338/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2015,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/8/ias_159962076614831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/1e1a4c90172342eca47740580be35711/10000145/primary3_200x100_90.png!75.webp",
+                    "ft":"我是卖不出去的",
+                    "ck":"true"
+                }
+            ],
+            "man":[
+                {
+                    "id": 2001,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/06/92/ias_159938811238579_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f85f6e7db35e40e180c40d26d6d436ab/10001324/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/194/ias_159895049071542_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2636487b41874cb3b6c5b6d1485a6cdf/10010871/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                }
+                ,
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/169/ias_159920903686911_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/9ac19ed0d97c48d58962a18066c0e5e0/10001155/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/06/92/ias_159938811238579_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f85f6e7db35e40e180c40d26d6d436ab/10001324/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/194/ias_159895049071542_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2636487b41874cb3b6c5b6d1485a6cdf/10010871/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                }
+                ,
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/169/ias_159920903686911_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/9ac19ed0d97c48d58962a18066c0e5e0/10001155/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/06/92/ias_159938811238579_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f85f6e7db35e40e180c40d26d6d436ab/10001324/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/194/ias_159895049071542_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2636487b41874cb3b6c5b6d1485a6cdf/10010871/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2011,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                }
+                ,
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/169/ias_159920903686911_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/9ac19ed0d97c48d58962a18066c0e5e0/10001155/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/06/92/ias_159938811238579_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f85f6e7db35e40e180c40d26d6d436ab/10001324/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/194/ias_159895049071542_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2636487b41874cb3b6c5b6d1485a6cdf/10010871/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2015,
+                    "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+                    "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                }
+                ,
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/169/ias_159920903686911_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/9ac19ed0d97c48d58962a18066c0e5e0/10001155/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                }
+            ],
+            "shoes":[
+                {
+                    "id": 2001,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/33/ias_159954724995972_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d71a0c1831b4dca8958af3d4e6cd3e4/10026669/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/172/ias_159920094309522_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/abe994ac2696454098d4f1ea8a060bc0/10029505/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/18/165/ias_159774572300965_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7d958d9897d44c91936824111046d63d/10027709/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/28/104/ias_159858903183031_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/04a7c6a86849415390ab6a1575e6fc8f/10031139/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/33/ias_159954724995972_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d71a0c1831b4dca8958af3d4e6cd3e4/10026669/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/172/ias_159920094309522_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/abe994ac2696454098d4f1ea8a060bc0/10029505/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/18/165/ias_159774572300965_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7d958d9897d44c91936824111046d63d/10027709/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/28/104/ias_159858903183031_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/04a7c6a86849415390ab6a1575e6fc8f/10031139/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/33/ias_159954724995972_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d71a0c1831b4dca8958af3d4e6cd3e4/10026669/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/172/ias_159920094309522_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/abe994ac2696454098d4f1ea8a060bc0/10029505/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2011,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/18/165/ias_159774572300965_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7d958d9897d44c91936824111046d63d/10027709/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/28/104/ias_159858903183031_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/04a7c6a86849415390ab6a1575e6fc8f/10031139/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/33/ias_159954724995972_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d71a0c1831b4dca8958af3d4e6cd3e4/10026669/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/172/ias_159920094309522_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/abe994ac2696454098d4f1ea8a060bc0/10029505/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2015,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/18/165/ias_159774572300965_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7d958d9897d44c91936824111046d63d/10027709/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/28/104/ias_159858903183031_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/04a7c6a86849415390ab6a1575e6fc8f/10031139/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                }
+            ],
+            "underwear":[
+                {
+                    "id": 2001,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/189/ias_159945856092468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/66781d1e1b6646239086d57ad2506614/10000656/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/13/ias_159948169546019_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c95d42e9b6d842839f3ae79205d797a8/10004554/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/2/ias_159920630203710_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6cd1fb1de1bd4c24a8ca5bd47eb1da9e/10011319/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/160/ias_159912466487498_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/008870c6238044e6ab44bf11ff5a346a/10010067/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/189/ias_159945856092468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/66781d1e1b6646239086d57ad2506614/10000656/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/13/ias_159948169546019_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c95d42e9b6d842839f3ae79205d797a8/10004554/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/2/ias_159920630203710_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6cd1fb1de1bd4c24a8ca5bd47eb1da9e/10011319/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/160/ias_159912466487498_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/008870c6238044e6ab44bf11ff5a346a/10010067/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/189/ias_159945856092468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/66781d1e1b6646239086d57ad2506614/10000656/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/13/ias_159948169546019_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c95d42e9b6d842839f3ae79205d797a8/10004554/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/2/ias_159920630203710_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6cd1fb1de1bd4c24a8ca5bd47eb1da9e/10011319/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/160/ias_159912466487498_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/008870c6238044e6ab44bf11ff5a346a/10010067/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/189/ias_159945856092468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/66781d1e1b6646239086d57ad2506614/10000656/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2015,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/13/ias_159948169546019_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c95d42e9b6d842839f3ae79205d797a8/10004554/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/2/ias_159920630203710_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6cd1fb1de1bd4c24a8ca5bd47eb1da9e/10011319/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2017,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/160/ias_159912466487498_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/008870c6238044e6ab44bf11ff5a346a/10010067/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                }
+            ],
+            "sports":[
+                {
+                    "id": 2001,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/166/ias_159947007104281_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7df64eddd4c6417a8d7dad9ff0411d25/10000490/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/77/ias_159918751084573_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f5a5d6549e4b4a2784314643a2db3780/10000542/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/66/ias_159944846367468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b32589692a53458ebdcd8ea96d6ea06e/10000290/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/97/ias_159954657169831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8c811a0af8e9473eae30f8e912c41f8a/10000329/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/166/ias_159947007104281_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7df64eddd4c6417a8d7dad9ff0411d25/10000490/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/77/ias_159918751084573_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f5a5d6549e4b4a2784314643a2db3780/10000542/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/66/ias_159944846367468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b32589692a53458ebdcd8ea96d6ea06e/10000290/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/97/ias_159954657169831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8c811a0af8e9473eae30f8e912c41f8a/10000329/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/166/ias_159947007104281_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7df64eddd4c6417a8d7dad9ff0411d25/10000490/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/77/ias_159918751084573_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f5a5d6549e4b4a2784314643a2db3780/10000542/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/66/ias_159944846367468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b32589692a53458ebdcd8ea96d6ea06e/10000290/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/97/ias_159954657169831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8c811a0af8e9473eae30f8e912c41f8a/10000329/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/166/ias_159947007104281_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/7df64eddd4c6417a8d7dad9ff0411d25/10000490/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2015,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/77/ias_159918751084573_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f5a5d6549e4b4a2784314643a2db3780/10000542/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/66/ias_159944846367468_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b32589692a53458ebdcd8ea96d6ea06e/10000290/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2017,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/08/97/ias_159954657169831_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8c811a0af8e9473eae30f8e912c41f8a/10000329/primary3_200x100_90.png!75.webp",
+                    "ft":"卖不了",
+                    "ck":"true"
+                }
+            ],
+            "infant":[
+                {
+                    "id": 2001,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/98/ias_159946466098981_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c29498dcd04d4b79807f5a380006b32b/10000363/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/55/ias_159921269115076_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d2f39302c4041c7a0bc9431953218a9/10014090/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/180/ias_159921585833547_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/475a1dfc79c748819f8fd3e9c7ce5dab/10004119/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/31/55/ias_159885020080444_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/af8cf9de2af54c8899f3a8ac51a2a242/10020078/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/98/ias_159946466098981_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c29498dcd04d4b79807f5a380006b32b/10000363/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/55/ias_159921269115076_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d2f39302c4041c7a0bc9431953218a9/10014090/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/180/ias_159921585833547_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/475a1dfc79c748819f8fd3e9c7ce5dab/10004119/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/31/55/ias_159885020080444_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/af8cf9de2af54c8899f3a8ac51a2a242/10020078/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/98/ias_159946466098981_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c29498dcd04d4b79807f5a380006b32b/10000363/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/55/ias_159921269115076_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d2f39302c4041c7a0bc9431953218a9/10014090/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2011,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/180/ias_159921585833547_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/475a1dfc79c748819f8fd3e9c7ce5dab/10004119/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/31/55/ias_159885020080444_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/af8cf9de2af54c8899f3a8ac51a2a242/10020078/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/98/ias_159946466098981_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/c29498dcd04d4b79807f5a380006b32b/10000363/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/55/ias_159921269115076_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/6d2f39302c4041c7a0bc9431953218a9/10014090/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2015,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/180/ias_159921585833547_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/475a1dfc79c748819f8fd3e9c7ce5dab/10004119/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/08/31/55/ias_159885020080444_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/af8cf9de2af54c8899f3a8ac51a2a242/10020078/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                }
+            ],
+            "beauty":[
+                {
+                    "id": 2001,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/11/ias_159892484186961_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/4e2665faecb140ab868e6b753ef28fc5/10010726/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/179/ias_159920015287655_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8e93319e90924a8b96671a90c0eaab6d/10010501/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/02/42/ias_159904077870921_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/dda3b79c1ce745e6994efd63e67a8509/10000288/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/146/ias_159919141693399_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/5a98b9c5aad242ad88e82816ce6b4ac9/10001264/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/11/ias_159892484186961_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/4e2665faecb140ab868e6b753ef28fc5/10010726/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/179/ias_159920015287655_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8e93319e90924a8b96671a90c0eaab6d/10010501/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/02/42/ias_159904077870921_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/dda3b79c1ce745e6994efd63e67a8509/10000288/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/146/ias_159919141693399_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/5a98b9c5aad242ad88e82816ce6b4ac9/10001264/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/11/ias_159892484186961_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/4e2665faecb140ab868e6b753ef28fc5/10010726/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/179/ias_159920015287655_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8e93319e90924a8b96671a90c0eaab6d/10010501/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2011,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/02/42/ias_159904077870921_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/dda3b79c1ce745e6994efd63e67a8509/10000288/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/146/ias_159919141693399_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/5a98b9c5aad242ad88e82816ce6b4ac9/10001264/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/01/11/ias_159892484186961_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/4e2665faecb140ab868e6b753ef28fc5/10010726/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/179/ias_159920015287655_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/8e93319e90924a8b96671a90c0eaab6d/10010501/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2015,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/02/42/ias_159904077870921_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/dda3b79c1ce745e6994efd63e67a8509/10000288/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/04/146/ias_159919141693399_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/5a98b9c5aad242ad88e82816ce6b4ac9/10001264/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                }
+            ],
+            "live":[
+                {
+                    "id": 2001,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/194/ias_159910006945166_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/3c2f294134db410fac9dcba6d48cda5f/10004171/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2002,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/163/ias_159961854995080_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b7bc45648d5d4c3caabd6d4326903dd1/10000560/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2003,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/120/ias_159912768221435_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9149b6204854a3d946d9eaa251815f2/10027065/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2004,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/199/ias_159947063314767_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f6df06163d124678a900f33904ce44c0/10010139/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                },
+                {
+                    "id": 2005,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/194/ias_159910006945166_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/3c2f294134db410fac9dcba6d48cda5f/10004171/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2006,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/163/ias_159961854995080_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b7bc45648d5d4c3caabd6d4326903dd1/10000560/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2007,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/120/ias_159912768221435_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9149b6204854a3d946d9eaa251815f2/10027065/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2008,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/199/ias_159947063314767_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f6df06163d124678a900f33904ce44c0/10010139/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                },
+                {
+                    "id": 2009,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/194/ias_159910006945166_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/3c2f294134db410fac9dcba6d48cda5f/10004171/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2010,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/163/ias_159961854995080_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b7bc45648d5d4c3caabd6d4326903dd1/10000560/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2012,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/120/ias_159912768221435_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9149b6204854a3d946d9eaa251815f2/10027065/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2013,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/199/ias_159947063314767_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f6df06163d124678a900f33904ce44c0/10010139/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                },
+                {
+                    "id": 2014,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/194/ias_159910006945166_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/3c2f294134db410fac9dcba6d48cda5f/10004171/primary3_200x100_90.png!75.webp",
+                    "ft":"1099新款货",
+                    "ck":"true"
+                },
+                {
+                    "id": 2015,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/09/163/ias_159961854995080_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b7bc45648d5d4c3caabd6d4326903dd1/10000560/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2016,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/03/120/ias_159912768221435_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b9149b6204854a3d946d9eaa251815f2/10027065/primary3_200x100_90.png!75.webp",
+                    "ft":"我是爆款",
+                    "ck":"false"
+                },
+                {
+                    "id": 2017,
+                    "ct":"https://h2.appsimg.com/a.appsimg.com/upload/brand/upcb/2020/09/07/199/ias_159947063314767_604x290_90.jpg!75.webp",
+                    "lg":"https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/f6df06163d124678a900f33904ce44c0/10010139/primary3_200x100_90.png!75.webp",
+                    "ft":"不卖",
+                    "ck":"true"
+                }
+            ]
+            
+        }
+       
+    
+}

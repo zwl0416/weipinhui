@@ -1,0 +1,169 @@
+{
+    
+    "shopAdList" : [
+        {
+            "id": 0,
+            "logo":"https://h2.appsimg.com/b.appsimg.com/upload/mst/2020/08/27/12/mst_4bed318d37c2eba56067c835d20e3773.gif",
+            "content" : "精选爆款 已售190+万件",
+            "main_img": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2020/08/27/18/mst_dcb764d2736c347910424c06c08a6e4d_750x386_90.jpg",
+            "list" : [
+                {
+                    "key" : 0,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/108857/2020/0421/37/900d0556-fccc-474b-8f84-80800e8aebc1_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/65952d95765d40b7a5a1c7d800b45c1e/10000601/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/108857/2020/0421/37/900d0556-fccc-474b-8f84-80800e8aebc1_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/108857/2020/0410/134/42ecba05-01fd-4313-976f-9a3fcd3c42d1_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/108857/2020/0410/82/2b9cbf7c-965b-4699-9f62-6a3644f7d7ea_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/108857/2020/0410/178/5e85ddf9-f285-4c9e-a23f-385e46aa6c4b_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/108857/2020/0421/92/db1f2652-4597-4d07-84d7-089432c76763_720x909_70.jpg!85.webp",
+                    "nm" : "¥47",
+                    "sale" : "617",
+                    "discount" : "0.8折",
+                    "name" : "夏季气质小香风收腰套装女网纱裙显瘦中长款连衣裙女",
+                    "rushbuy" : "88%"
+                },
+                {
+                    "key" : 1,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/115/0965b0b4-bc6d-49c1-bdf9-2aec6cf07022_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/893d6e9631f9466cb186db5465ff77e6/10000683/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/115/0965b0b4-bc6d-49c1-bdf9-2aec6cf07022_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/73/6c2c6ab5-e122-40c4-8695-9bddab2bd480_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/153/2f8cf866-670b-497d-bdf3-1ffbac8f5cc6_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/64/9e747d0b-00d0-416d-a0e8-668fd81da63f_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/09/04/64/9e747d0b-00d0-416d-a0e8-668fd81da63f_720x909_70.jpg!85.webp",
+                    "nm" : "¥58",
+                    "sale" : "668",
+                    "discount" : "0.9折",
+                    "name" : " 印花图案半身裙套装20新款三十休闲气质套装女夏时尚职业套装",
+                    "rushbuy" : "68%"
+
+                },
+                {
+                    "key" : 2,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/05/20/148/da0cb295-eaf4-432e-83e4-e4685f3df7e9_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/339db822271b4873a8e35994535c3c07/10000291/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/05/20/148/da0cb295-eaf4-432e-83e4-e4685f3df7e9_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/05/20/199/360c65f9-9e87-47ed-aad6-6db8c3490f1b_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/05/20/178/9f2a0681-76d3-485d-a923-c94c90e68f56_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/05/20/61/981be0f0-74f4-4e28-b9b8-fe023791e2e0_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/05/20/85/104b1b16-2926-4c3d-9d5c-076271c2ddd1_720x909_70.jpg!85.webp",
+                    "nm" : "¥69",
+                    "sale" : "768",
+                    "discount" : "0.9折",
+                    "name" : "波点雪纺鱼尾裙套装女20新款三十百搭女式套装蕾丝拼接休闲套装",
+                    "rushbuy" : "96%"
+
+                }
+            ]
+        },
+    
+        {
+            "id": 0,
+            "logo":"https://h2.appsimg.com/b.appsimg.com/upload/mst/2020/08/27/12/mst_4bed318d37c2eba56067c835d20e3773.gif",
+            "content" : "1000+品牌正在疯抢",
+            "main_img": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2020/08/14/32/mst_7627437ad0cb78e5e9eaa7507d4b33e5_750x446_90.jpg",
+            "list" : [
+                {
+                    "key" : 0,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/04/23/658c1efb-6358-4d34-a8b3-ba1097dc66f4_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/65952d95765d40b7a5a1c7d800b45c1e/10000601/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/04/23/658c1efb-6358-4d34-a8b3-ba1097dc66f4_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/05/20/199/360c65f9-9e87-47ed-aad6-6db8c3490f1b_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/04/60/c45f6403-8fb3-4a62-9094-dae567432103_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/04/129/e417f5c9-2f44-47db-9b9b-0779b15a6c46_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/08/04/180/6b6fd3b1-3308-417f-93d7-d2f3ca2c4034_720x909_70.jpg!85.webp",
+                    "nm" : "¥39",
+                    "sale" : "388",
+                    "discount" : "1.1折",
+                    "name" : "2020春季新款男款卫衣连帽卫衣潮流拼接男士卫衣男卫衣",
+                    "rushbuy" : "90%"
+                },
+                {
+                    "key" : 1,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/615099/2019/1211/82/e9634d39-e750-4956-b770-ae0e16e5fe92_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/893d6e9631f9466cb186db5465ff77e6/10000683/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/615099/2019/1211/82/e9634d39-e750-4956-b770-ae0e16e5fe92_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/615099/2019/1211/16/166ee80a-04b0-4b5c-a86c-e777d331f9b5_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/615099/2019/0731/37/d18bd296-e68c-442b-a9eb-6559d672543a_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/615099/2019/1211/16/166ee80a-04b0-4b5c-a86c-e777d331f9b5_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/615099/2019/0731/37/d18bd296-e68c-442b-a9eb-6559d672543a_720x909_70.jpg!85.webp",
+                    "nm" : "¥122",
+                    "sale" : "599",
+                    "discount" : "2.1折",
+                    "name" : "大嘴猴 情侣装宽松时尚印花连帽女式卫衣",
+                    "rushbuy" : "89%"
+                },
+                {
+                    "key" : 2,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617179/2020/0829/177/0dc3b187-4cdd-43db-b18c-feb5fff6e87b_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/339db822271b4873a8e35994535c3c07/10000291/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617179/2020/0829/177/0dc3b187-4cdd-43db-b18c-feb5fff6e87b_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617179/2020/0829/73/bfe6c61a-286f-4a0d-ae2f-8b43a5c90d06_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617179/2020/0829/37/1a3cfc01-988e-4c8c-a312-50a3a70ac614_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617179/2020/0829/25/608c35dc-9d9e-405e-a10c-34aaa22764d7_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/617179/2020/0829/20/ab12399c-8a37-4413-a672-c125438f23f4_720x909_70.jpg!85.webp",
+                    "nm" : "¥134",
+                    "sale" : "499",
+                    "discount" : "1.3折",
+                    "name" : "logo印花连帽卫衣 男式休闲字母印花hoodie上衣DK006874",
+                    "rushbuy" : "70%"
+                }
+            ]
+        },
+
+        {
+            "id": 0,
+            "logo":"https://h2.appsimg.com/b.appsimg.com/upload/mst/2020/08/27/12/mst_4bed318d37c2eba56067c835d20e3773.gif",
+            "content" : "极致性价比好物大搜罗",
+            "main_img": "https://h2.appsimg.com/b.appsimg.com/upload/mst/2020/08/27/18/mst_dcb764d2736c347910424c06c08a6e4d_750x386_90.jpg",
+            "list" : [
+                {
+                    "key" : 0,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/01/10/77/5330aed1-c7e1-4870-a292-4a256ef1dec8_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/65952d95765d40b7a5a1c7d800b45c1e/10000601/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/01/10/77/5330aed1-c7e1-4870-a292-4a256ef1dec8_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/01/10/132/71468a76-c083-4881-b8e0-ef91d313911a_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/01/10/66/c0d5a268-502e-4d8d-9a34-dd129edb16f6_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/01/10/11/c3539efd-567b-4531-ad86-748667ccdac9_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2019/01/10/148/c27c9a74-c905-463e-bc6f-045fbbabb8ae_720x909_70.jpg!85.webp",
+                    "nm" : "¥71",
+                    "sale" : "329",
+                    "discount" : "2.2折",
+                    "name" : "百搭女鞋小白鞋内增高增高女小白鞋女鞋",
+                    "rushbuy" : "99%"
+                },
+                {
+                    "key" : 1,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104218/2020/0430/87/35560664-c427-4030-a9c2-d03c6119190f_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/893d6e9631f9466cb186db5465ff77e6/10000683/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104218/2020/0430/157/32e9fc24-fd9c-4e6d-9e30-aa24fedeb0a8_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104218/2020/0430/121/b6fab1ae-f465-476b-b54d-96b0fe3a05d1_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104218/2020/0430/106/7064e2aa-b674-4ee1-84bf-2e3ea3c6c8bb_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104218/2020/0430/132/939789ad-8a08-45dd-84b6-f92818ee0553_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/104218/2020/0430/89/88f34e23-c840-480f-8ca1-80edbb12d899_720x909_70.jpg!85.webp",
+                    "nm" : "¥69",
+                    "sale" : "459",
+                    "discount" : "1.5折",
+                    "name" : "20年新款森马百搭女鞋女小白鞋厚底增高女士老爹鞋女鞋",
+                    "rushbuy" : "66%"
+                },
+                {
+                    "key" : 2,
+                    "img_1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/07/03/72/7c63a57d-cb1b-477e-b096-d9fd897d5345_720x909_70.jpg!85.webp",
+                    "img_2" : "https://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/339db822271b4873a8e35994535c3c07/10000291/primary_120x60_90.png",
+                    "img" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/07/03/72/7c63a57d-cb1b-477e-b096-d9fd897d5345_720x909_70.jpg!85.webp",
+                    "img1" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/07/03/145/498bfcc2-3287-466c-9124-5f2adf8e0cab_720x909_70.jpg!85.webp",
+                    "img2" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/07/03/181/3cee7a05-96e9-48fe-a2e5-566738dcb225_720x909_70.jpg!85.webp",
+                    "img3" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/07/03/51/a68f70ac-b76c-44b3-b4c9-b392d69de9ca_720x909_70.jpg!85.webp",
+                    "img4" : "https://h2a.appsimg.com/a.appsimg.com/upload/merchandise/pdcvis/2020/07/03/37/0eaf61c1-1c3e-4ddf-b302-444e2f688a38_720x909_70.jpg!85.webp",
+                    "nm" : "¥62",
+                    "sale" : "329",
+                    "discount" : "1.9折",
+                    "name" : "女鞋麦昆女小白鞋厚底增高女士休闲鞋女鞋",
+                    "rushbuy" : "92%"
+
+                }
+            ]
+        }
+    ]  
+}

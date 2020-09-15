@@ -1,0 +1,26 @@
+{
+    "/api/classifylist":"/classifylist",
+    "/api/shopAdList": "/shopAdList",
+    "/api/todaySaleList": "/todaySaleList",
+    "/api/dataList": "/dataList",
+    "/api/barList": "/barList",
+    "/api/hotCities" : "/hotCities",
+    "/api/cities" : "/cities",
+
+    
+    "/api/con1":"/con1",
+    "/api/datalists":"/datalists",
+    "/api/kinds":"/kinds",
+    "/api/branks":"/branks",
+    "/api/lists":"/lists",
+
+
+    "/api/lister":"/lister",
+    "/api/expectlist":"/expectlist",
+
+    
+    "/api/firstProducts":"/rowList",
+    "/api/listLeft":"/listLeft",
+    "/api/data":"/listTop",
+    "/api/leftContent":"/leftContent"
+}

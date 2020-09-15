@@ -1,0 +1,40 @@
+{
+    "con1":[
+        {
+            "id": 1001,
+            "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/04/63/ias_159920953658357_220x280_90.jpg!75.webp",
+            "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/384e592693fe4cf8960a30b1a601c7f0/10000812/primary_108x54_90.png!75.webp",
+            "ft":"3折封顶"
+        },
+        {
+            "id": 1002,
+            "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/08/10/71/ias_159704637092784_220x280_90.jpg!75.webp",
+            "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/b4331f2ad75c4046bb6cc94077360984/10026338/primary_108x54_90.png!75.webp",
+            "ft":"3折封顶"
+        },
+        {
+            "id": 1003,
+            "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/65/ias_159910574489171_220x280_90.jpg!75.webp",
+            "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/62d3132f40b148af9bee6d07bb7566b1/10006741/primary_108x54_90.png!75.webp",
+            "ft":"2.9折封顶"
+        },
+        {
+            "id": 1004,
+            "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/08/25/120/ias_159834132074919_220x280_90.jpg!75.webp",
+            "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/34bae8259ad0437587f033957541f91c/10004114/primary_108x54_90.png!75.webp",
+            "ft":"4折封顶"
+        },
+        {
+            "id": 1005,
+            "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/09/03/97/ias_159909732902060_220x280_90.jpg!75.webp",
+            "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/2fab60391567412289e12f2816f38cde/10000547/primary_108x54_90.png!75.webp",
+            "ft":"3折封顶"
+        },
+        {
+            "id": 1006,
+            "ct":"http://h2.appsimg.com/a.appsimg.com/upcb/2020/08/27/5/ias_159849453618798_220x280_90.jpg!75.webp",
+            "lg":"http://h2.appsimg.com/a.appsimg.com/upload/brandcool/0/de22752993af410d8089c1e27b006935/10000773/primary_108x54_90.png!75.webp",
+            "ft":"3折封顶"
+        }
+    ]
+}

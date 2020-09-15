@@ -1,0 +1,54 @@
+{
+    "classifylist": [
+      {
+        "id": 0,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/07/09/100/15942669412652_150x168_90.png!85.webp",
+        "nm": "女装"
+      },
+      {
+        "id": 1,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/04/29/60/15881458883088_150x168_90.png!85.webp",
+        "nm": "男装"
+      },
+      {
+        "id": 2,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/03/06/37/15834607439051_150x168_90.png!85.webp",
+        "nm": "鞋包"
+      },
+      {
+        "id": 3,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/03/06/198/15834609567620_150x168_90.png!85.webp",
+        "nm": "内衣"
+      },
+      {
+        "id": 4,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/04/29/32/15881445764945_150x168_90.png!85.webp",
+        "nm": "秋上新"
+      },
+      {
+        "id": 5,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/07/09/91/15942672166384_150x168_90.png!85.webp",
+        "nm": "运动户外"
+      },
+      {
+        "id": 6,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/03/06/41/15834605911270_150x168_90.png!85.webp",
+        "nm": "母婴童装"
+      },
+      {
+        "id": 7,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/03/06/7/15834609171262_150x168_90.png!85.webp",
+        "nm": "美妆个护"
+      },
+      {
+        "id": 8,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/03/06/112/15834610135997_150x168_90.png!85.webp",
+        "nm": "手表配饰"
+      },
+      {
+        "id": 9,
+        "src": "https://h2a.appsimg.com/a.appsimg.com/upload/flow/2020/02/17/39/15819287342502_150x168_90.png!85.webp",
+        "nm": "清仓"
+      }
+    ]
+  }
